@@ -1,0 +1,33 @@
+.btn-details{
+    display: block;
+    background-color: green;
+    color: white;
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: center;
+    margin-left: 580px;
+    font-size: 20px;
+}
+
+.h1-details{
+    text-align: center;
+    margin-top: 10px;
+    font-family: fantasy; 
+}
+
+.para-container{
+    text-align: center;
+    background-color: aqua;
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.icon-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+img{
+    width: 300px;
+}
